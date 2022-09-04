@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi ! I am Ahmet Kadir 👋
+
+🌱 I’m currently learning Java Spring Framework
+- 📫 How to reach me: ahmetkadir518@gmail.com
+
 
 <!--
 **AhmetKadir/AhmetKadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
