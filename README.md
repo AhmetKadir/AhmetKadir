@@ -1,6 +1,6 @@
 <h1 align="center"> Hi ! I'm Ahmet Kadir 👋 </h1>
 
-🌱 I’m currently learning Java Spring Framework
+🌱 I’m currently learning Java Spring
 
 📫 How to reach me: ahmetkadir518@gmail.com
 
