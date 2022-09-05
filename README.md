@@ -6,9 +6,11 @@
 
 ![](https://github.com/github/explore/blob/main/topics/java/java.png)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AhmetKadir&theme=yeblu&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetKadir&hide=html,css,Javascript)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetKadir&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AhmetKadir&hide=prs,issues&theme=yeblu&show_icons=true&count_private=true)
+
+
 
 
 
