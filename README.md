@@ -20,7 +20,11 @@
 
 **Connect With Me:**
 
-<a href="https://www.linkedin.com/in/ahmet-kadir-aksu-729556180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain-wordmark.svg" alt="Ahmet-Kadir" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmet-kadir-aksu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain-wordmark.svg" alt="Ahmet-Kadir" height="40" width="40" /></a>
+
+**See: **
+
+<a href="https://www.hackerrank.com/ahmetkadir518" target="blank">HackerRank</a>
 
 <!-- ![](https://komarev.com/ghpvc/?username=AhmetKadir) -->
 
