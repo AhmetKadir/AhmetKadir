@@ -6,7 +6,7 @@
 
 ![](https://github.com/github/explore/blob/main/topics/java/java.png)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AhmetKadir&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AhmetKadir&theme=yeblu&show_icons=true&count_private=true)
 
 
 <!--
