@@ -1,9 +1,8 @@
 <h1 align="center"> Hi ! I'm Ahmet Kadir 👋 </h1>
 
+🌱 I’m currently learning Java Spring Framework
 
-                                🌱 I’m currently learning Java Spring Framework
-
-                                📫 How to reach me: ahmetkadir518@gmail.com
+📫 How to reach me: ahmetkadir518@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetKadir&layout=compact&hide=html,css,Javascript)](https://github.com/anuraghazra/github-readme-stats)
 
