@@ -15,13 +15,14 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain-wordmark.svg" alt="intellij" width="40" height="40"/></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetKadir&layout=compact&hide=html,css,Javascript)](https://github.com/anuraghazra/github-readme-stats)
-
+<!---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AhmetKadir&hide=prs,issues&theme=yeblu&show_icons=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmetKadir&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmetKadir&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmetKadir&theme=nord_bright) 
-<!---![](https://activity-graph.herokuapp.com/graph?username=AhmetKadir&theme=react-dark&area=true)-
+![](https://activity-graph.herokuapp.com/graph?username=AhmetKadir&theme=react-dark&area=true)-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmetKadir" alt="AhmetKadir" /></a> </p> -->
 
 **Connect With Me:**
