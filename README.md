@@ -13,6 +13,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain-wordmark.svg" alt="vscode" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain-wordmark.svg" alt="intellij" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></code>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetKadir&layout=compact&hide=html,css,Javascript)](https://github.com/anuraghazra/github-readme-stats)
 <!---
