@@ -6,7 +6,7 @@
 
 **Languages and Tools:**  
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain-wordmark.svg" alt="java-spring" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="java-spring" width="40" height="40"/></code>
 <code><img src="https://community.chocolatey.org/content/packageimages/vscode-spring-boot.1.31.0.png" alt="Spring Boot" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="40" height="40"/></code>
