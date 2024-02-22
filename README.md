@@ -1,7 +1,5 @@
 <h1 align="center"> Hi ! I'm Ahmet Kadir 👋 </h1>
 
-🌱 I’m currently learning Java Spring Boot + Angular
-
 📫 How to reach me: ahmetkadir518@gmail.com
 
 **Languages and Tools:**  
